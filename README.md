@@ -10,7 +10,7 @@
 ---
 
 ## 📋 Descrição do Projeto
-
+> Link do vídeo no Youtube: https://youtu.be/A25w7y42Se4
 ### Problema Abordado
 
 No contexto do **futuro do trabalho**, profissionais enfrentam desafios crescentes relacionados ao **estresse, sobrecarga** e **problemas de saúde** causados por rotinas intensas, especialmente em ambientes de home office e trabalho híbrido. A ausência de monitoramento da saúde em tempo real pode levar a:
