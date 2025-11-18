@@ -71,7 +71,6 @@ Este projeto se alinha ao tema **"Saúde e bem-estar no trabalho"** proposto pel
 
 ### Link do Projeto no Wokwi
 🔗 [Link para simulação no Wokwi](https://wokwi.com/projects/381957492268331009)
-> **Nota:** Substitua pelo link do seu projeto após criá-lo no Wokwi
 
 ---
 
